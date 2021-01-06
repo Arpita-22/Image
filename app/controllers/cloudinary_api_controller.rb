@@ -1,0 +1,2 @@
+class CloudinaryApiController < ApplicationController
+end
